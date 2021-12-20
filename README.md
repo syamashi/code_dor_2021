@@ -1,7 +1,7 @@
 # code_dor_2021
 
 ## Instruction
-1. github上で`.`ボタンを押してください。
+1. github上で`.`ボタンを押してください(ブラウザ上でVisual Studio Codeが立ち上がらない場合、または閲覧できない場合、他の方法を用いてリポジトリを開きましょう)。
 2. 各ファイルの中身を閲覧しましょう。
 3. 一番美しいと思ったコードが記載されてあるファイルの名前を、以下のリンクから投票してください。
 https://forms.42tokyo.jp/1B023wlFYzP_DyEfHh1Eu7RjSrMRZwtv19iYnbFPMCso/
