@@ -1,0 +1,1 @@
+r=[];ARGV.each{|dir|r += Dir.glob(dir+"/*")};r.sort!;while r.size!=0;d=r.shift;s=false;r.delete_if{|c|`diff #{d} #{c}`;if $?==0;if !s;s=true;print "#{d} #{c}";else;print " #{c}";end;true;else;false;end};if s; putc "\n"end;end
