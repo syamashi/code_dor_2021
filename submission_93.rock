@@ -1,0 +1,9 @@
+(This program works in rockstar language. File extension is '.rock'.)
+
+Let the string be "check it out!!"
+Split the string into tokens
+Join tokens with ";"
+
+The input says Thank you 42Tokyo
+Split the input into words with " "
+Unite words into the output with "! "
